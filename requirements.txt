@@ -1,0 +1,16 @@
+# Data Processing & Math
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+
+# Web Application & Visualization
+streamlit
+matplotlib
+seaborn
+
+# Utilities
+tqdm
